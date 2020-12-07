@@ -12,3 +12,8 @@ docker hub and downloaded from there. Server are assigning IPs from pool
 - [Docker image for secondary server](https://hub.docker.com/repository/docker/mmsrubar/dhcp-failover-secondary "Docker image for secondary server")
 
 ![](topology.png)
+
+## Pcaps
+
+- [sync between DHCP servers after startup](project-files/captures/dhcp-sync-after-boot.pcap "sync between DHCP servers after startup")
+- [PC1 is asking for an IP using DHCP](project-files/captures/pc1-asking-ip-both-servers-running.pcap "PC1 is asking for an IP using DHCP")
