@@ -1,6 +1,6 @@
 # DHCP Failover
 
-Project: 'DHCP Failover' created on 2020-12-06
+Project: 'DHCP Failover' created on 2020-12-06\
 Author: Michal Šrubař <mmsrubar@gmail.com>
 
 A simple implementation demonstrating an ISC DHCP failover using one primary and
