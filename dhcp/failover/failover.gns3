@@ -16,7 +16,26 @@
     "supplier": null,
     "topology": {
         "computes": [],
-        "drawings": [],
+        "drawings": [
+            {
+                "drawing_id": "48f2adac-d6ac-48d5-aa84-689d548e7153",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"113\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.210.2</text></svg>",
+                "x": -80,
+                "y": -90,
+                "z": 2
+            },
+            {
+                "drawing_id": "ff8e61ef-2aab-470a-9149-13536bb08aac",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"113\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.210.3</text></svg>",
+                "x": -73,
+                "y": 59,
+                "z": 2
+            }
+        ],
         "links": [
             {
                 "filters": {},
@@ -202,7 +221,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "c02debe3787251d26968de5fa037e5faacc630a7afe99bee763a5ca65dae9399",
+                    "container_id": "8848d944d8fa01678d965e7351035d2c106f164fe9113d0655258f2781769784",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -244,7 +263,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "7c312c5ecf25cb5ca2b089c3f58609ac7e00e42b10c0fc194060b02782dca263",
+                    "container_id": "916e751cbd1377f88cf2d0ff30af823f195c97f639fada1d81348dbb3b968f97",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
