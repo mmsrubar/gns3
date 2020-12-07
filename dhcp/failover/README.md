@@ -8,10 +8,15 @@ one secondary server. DHCP servers are implemented as docker images build in the
 docker hub and downloaded from there. Server are assigning IPs from pool
 192.168.210.10 - 192.168.210.240.
 
+## Topology
+
+![](topology.png)
+
+## Docker images
+
 - [Docker image for primary server:](https://hub.docker.com/repository/docker/mmsrubar/dhcp-failover-primary "Docker image for primary server:")
 - [Docker image for secondary server](https://hub.docker.com/repository/docker/mmsrubar/dhcp-failover-secondary "Docker image for secondary server")
 
-![](topology.png)
 
 ## Pcaps
 
